@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "s0ftportfolio",
-    "homepage": ".",
+    "homepage": "https://gabr1elazevedo.github.io",
     "version": "3.5.9",
     "scripts": {
       "build": "node fetcher.mjs && react-scripts build --openssl-legacy-provider",
