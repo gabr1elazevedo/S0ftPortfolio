@@ -5,7 +5,7 @@ export default class FullStackImg extends Component {
     const theme = this.props.theme;
     return (
       <svg
-         width={1300}
+         width={1400}
          height={1000}
          viewBox="0 0 1098.75 632.37039"
          fill="none"
